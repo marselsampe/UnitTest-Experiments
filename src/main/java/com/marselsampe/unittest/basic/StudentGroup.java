@@ -1,4 +1,4 @@
-package com.marselsampe.app;
+package com.marselsampe.unittest.basic;
 
 import java.util.ArrayList;
 

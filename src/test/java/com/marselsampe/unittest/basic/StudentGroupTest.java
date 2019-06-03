@@ -1,9 +1,12 @@
-package com.marselsampe.app;
+package com.marselsampe.unittest.basic;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.marselsampe.unittest.basic.Student;
+import com.marselsampe.unittest.basic.StudentGroup;
 
 import java.util.ArrayList;
 

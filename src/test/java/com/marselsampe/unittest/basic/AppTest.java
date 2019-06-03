@@ -1,4 +1,4 @@
-package com.marselsampe.app;
+package com.marselsampe.unittest.basic;
 
 import static org.junit.Assert.assertTrue;
 
